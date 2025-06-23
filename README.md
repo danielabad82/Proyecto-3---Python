@@ -1,5 +1,6 @@
 # Proyecto-3---Python
 PROYECTO LÓGICA: Katas de Python
+
 1- 📒Descripción del Proyecto Se han realizado los ejercicios en el PDF facilitado usando:
 
     Python  3.12.2
