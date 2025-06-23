@@ -453,6 +453,9 @@ arbol.quitar_rama(0)
 print(arbol.info_arbol())
 
 
+# No existe el ejercicio 35.
+
+
 """36. Crea la clase UsuarioBanco ,representa a un usuario de un banco con su nombre, saldo y si tiene o no cuenta
 corriente. Proporciona métodos para realizar operaciones como retirar dinero, transferir dinero desde otro usuario y
 agregar dinero al saldo."""
@@ -498,6 +501,10 @@ try:
     print(f"Alicia tras retirar 50: {alicia.saldo}")
 except ValueError as e:
     print(f"Error al retirar: {e}")
+
+#Este ejercicio ha sido más dificil ya que me daba un error al no poder  trasnferir 80 unidades de Bob a Alicia, 
+# ya que este después de los puntos 1 y 2 de los Casos de uso, tenía 70 unidades y no conseguía que me realizará 
+# el punto 4 de los Casos de uso. En este caso usé la IA.
 
 """37. Crea una función llamada procesar_texto que procesa un texto según la opción especificada: contar_palabras,
 reemplazar_palabras , eliminar_palabra . Estas opciones son otras funciones que tenemos que definir primero y llamar dentro
