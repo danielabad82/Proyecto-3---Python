@@ -21,6 +21,7 @@ El proyecto se ha realizado con el editor de código fuente Visual Studio Code, 
     En este caso el resultado de los ejercicios, en mi opinión, se vería más claro si pudiese entregarse en formato .ipynb.
 
 5- ⏭️ Próximos Pasos. 
+
 El mundo de la programación es apasionante y la cantidad de opciones que abre en mi vida laboral es enorme. Seguiré formandome en ella.
 
 6- ✍🏼Autor y Agradecimiento
