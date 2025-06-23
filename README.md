@@ -12,7 +12,8 @@ PROYECTO LÓGICA: Katas de Python
     Katas/ejercicios a realizar
     Archivo .py con los katas/ejercicios realizados
 
-3- 🛠️Herramientas utilizadas El proyecto se ha realizado con el editor de código fuente Visual Studio Code, Python como lenguaje de programación diferentes librerias y en algunos ejercicios IA, GitHub copilot en modo agente.
+3- 🛠️Herramientas utilizadas 
+El proyecto se ha realizado con el editor de código fuente Visual Studio Code, Python como lenguaje de programación diferentes librerias y en algunos ejercicios IA, GitHub copilot en modo agente.
 
 4- 📊Resultados y Conclusiones Se identifican, entre otros:
 
